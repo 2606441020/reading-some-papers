@@ -10,3 +10,8 @@ how to implement UTI ?/
 how to compute SAD of every patches in Fig.7 ?/
 
 where is to set input scale in the code?
+
+
+2025.5.5/
+
+Segment anything 
